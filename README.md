@@ -56,13 +56,6 @@ Building modern, scalable & user-friendly web applications
 
 ---
 
-##  Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Anooshashraf&icon=0&color=0" />
-</p>
-
----
-
 <div align="center">
 
 ✨ *Always learning, always building.*  
