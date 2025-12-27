@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anoosha-ashraf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anooshaashraf96@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoosha-ashraf-29119032b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anooshaashraf96@gmail.com) 
 
 # 💻 Tech Stack:
 # Front-End
